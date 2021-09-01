@@ -5,7 +5,7 @@
 |:------|:--------:|
 | NLP | [Naver Sentiment Analysis](AIFFEL/exploration/E7/Naver%20Sentiment%20Analysis.ipynb)|
 | NLP | [News Summary](AIFFEL/exploration/E7/Naver%20Sentiment%20Analysis.ipynb)|
-| Speech | |
+| Speech | [Audio Processing](Deep_Learning/Speech/Audio_Processing.ipynb) |
 | Vision | | 
 | Recommender System | [MovieLens Recommendation](AIFFEL/exploration/E9/Movielens.ipynb)|
 
