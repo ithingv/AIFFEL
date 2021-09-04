@@ -10,9 +10,8 @@
 | Speech | [Speech Recognition](Deep_Learning/Speech/Speech%20Recognition.ipynb) |
 | Speech | [Speech Synthesis](Deep_Learning/Speech/Speech%20Synthesis.ipynb) |
 | Speech | [Speaker Diarization](Deep_Learning/Speech/Speaker%20Diarization.ipynb) |
-
-| Vision |[AutoEncoder](/Deep_Learning/Vision/Autoencoder.ipynb)| 
-| Vision |[Denosing AutoEncoder](/Deep_Learning/Vision/Denoise_AutoEncoder.ipynb)| 
+| Vision |[AutoEncoder](Deep_Learning/Vision/Autoencoder.ipynb)| 
+| Vision |[Denosing AutoEncoder](Deep_Learning/Vision/Denoise_AutoEncoder.ipynb)| 
 | Recommender System | [MovieLens Recommendation](AIFFEL/exploration/E9/Movielens.ipynb)|
 
 
