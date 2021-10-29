@@ -1,6 +1,5 @@
 # Deep Learning
   
-  
 |Category | Content |  
 |:------|:--------:|
 | NLP | [Naver Sentiment Analysis](AIFFEL/exploration/E7/Naver%20Sentiment%20Analysis.ipynb)|
