@@ -13,7 +13,6 @@
 | Vision |[Denosing AutoEncoder](Deep_Learning/Vision/Denoise_AutoEncoder.ipynb)| 
 | Recommender System | [MovieLens Recommendation](AIFFEL/exploration/E9/Movielens.ipynb)|
 
-
 ---
 
 # Machine Learning
