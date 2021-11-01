@@ -21,6 +21,7 @@
 |:---------|:--------:|
 |Linear Regression |  |
 |Logistic Regression | |
+|Regularization | |
 |Neural Network | |
 |Support Vector Machine | |
 
