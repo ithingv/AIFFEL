@@ -19,8 +19,10 @@
 
 |category | content |  
 |:---------|:--------:|
-|Supervised Learning |  |
-|Unsupervisied Learninig | |
+|Linear Regression |  |
+|Logistic Regression | |
+|Neural Network | |
+|Support Vector Machine | |
 
 
 
