@@ -24,6 +24,7 @@
 |Regularization | |
 |Neural Network | |
 |Support Vector Machine | |
+|K means Clustering | |
 
 
 
