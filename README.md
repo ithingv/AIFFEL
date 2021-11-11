@@ -26,6 +26,7 @@
 |Support Vector Machine | |
 |K means Clustering | |
 |PCA | |
+|Gaussian Mixture||
 
 
 
