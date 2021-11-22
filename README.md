@@ -6,7 +6,7 @@
 
 ## Exploration
 | Category | Project | 
-| :-- | :-- | :--: | 
+| :-- | :-- | 
 | Image Classificaiton | [Rock, Scissor, Paper Image Classification](E1/E1_Rock_Scissor_Paper_Image_Classification.ipynb)|   
 | Classification | [Sklearn Dataset Breast Cancer Classification](E2/.ipynb_checkpoints/Breast_Cancer_Classification-checkpoint.ipynb)|
 | Classification | [Sklearn Dataset Wine Classification](E2/.ipynb_checkpoints/Wine_Classification-checkpoint.ipynb)|
