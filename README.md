@@ -27,4 +27,4 @@
 | Super Resolution | [SRGAN](E16/E16_SRGAN.ipynb) |
 | BERT | [KorQuAD-BERT](E17/E17_BERT_KorQuAD.ipynb)  | 
 | OCR | [OCR Service](E18/E18_OCR_models.ipynb) |   
-| Conditioanl GAN | [Pix2Pix](E19/E19_Pix2Pix.ipynb) | 
+| Conditioanl GAN | [Pix2Pix](E19/E19_Pix2Pix.ipynb) |  
