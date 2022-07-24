@@ -2,6 +2,7 @@
 
 인공지능 학교 아이펠에서 공부한 내용을 기록하는 저장소입니다. 
  
+[활동 기록 링크](https://www.notion.so/AIFFEL-a71c66cafade451d98f91ca69658493d)
 ---   
 
 ## Exploration
